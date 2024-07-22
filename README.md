@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=400&section=header&text=dewbeeny🌼&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=400&section=header&text=dew🌼beeny&fontSize=90)
 
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
