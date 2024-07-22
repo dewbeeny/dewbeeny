@@ -26,6 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny" alt="Top Langs"/>
   </a>
   <br/>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dewbeeny" alt="Anurag's GitHub stats"/>
   </a>
@@ -33,9 +34,11 @@
 
 <br/>
 
-### Vlog🌿
 
 <div align="center">
+  
+  ### Vlog🌿
+  
   <a href="https://velog.io/@dewbeeny/posts">
     <img src="https://velog-readme-stats.vercel.app/api?name=dewbeeny" alt="Velog's GitHub stats"/>
   </a>
