@@ -15,12 +15,20 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## ✨ NOW
+## ✨ Now
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ### Vlog🌿
 
+<div align="center">
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dewbeeny)](https://velog.io/@dewbeeny/posts)
+
+</div>
