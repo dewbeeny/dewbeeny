@@ -19,9 +19,12 @@
 <br/>
 ## ✨NOW
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
 
 ### vlog🌿
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dewbeeny)](https://velog.io/@dewbeeny/posts)
