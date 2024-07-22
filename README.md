@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=400&section=header&text=dewbeeny🌼&fontSize=90)
 
-## Hi there 👋
+## 🚀Skills
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewbeeny)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dewbeeny)](https://velog.io/@dewbeeny/posts)
