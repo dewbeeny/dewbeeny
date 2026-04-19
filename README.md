@@ -1,45 +1,54 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=dewbeeny🌼&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Soobin%20K.🛡️&fontSize=70&fontColor=ffffff)
 
-## 🚀 Skills
+## 🖋️ Executive Summary
+[cite_start]**Security Operations Engineer & Software Developer** with an enterprise-scale background. [cite: 5, 27]
+[cite_start]Specializing in building secure, high-performance web architectures and conducting rigorous vulnerability assessments. [cite: 16, 23, 234] Currently dispatched to a **top-tier South Korean tech conglomerate's semiconductor division**, managing information leakage prevention and security infrastructure.
+
+---
+
+## 🚀 Core Expertise
+
+### 🔒 Cyber Security & Infrastructure
+- [cite_start]**Vulnerability Assessment:** OWASP Top 10 analysis (XSS, SQLi, CSRF), Web/Cloud security auditing. [cite: 83, 225]
+- [cite_start]**Security Tools:** Burp Suite, OWASP ZAP, nmap, Wireshark. [cite: 16, 84, 91]
+- **Operations:** SIEM (Splunk), EDR (Cybereason), Linux system hardening.
+- [cite_start]**Secure Coding:** JWT-based Auth architecture, RBAC design, and session security. [cite: 88, 89]
+
+### 💻 Software Engineering
+- [cite_start]**Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS. [cite: 46, 48, 73]
+- [cite_start]**State Management:** TanStack Query, Zustand, Recoil. [cite: 49, 74, 317]
+- [cite_start]**DevOps & Cloud:** AWS (S3, CloudFront), Vercel, Docker, GitHub Actions (CI/CD Optimization). [cite: 51, 52, 78, 80, 228]
+- [cite_start]**Languages:** JavaScript (ES6+), TypeScript, Python, C/C++, Java. [cite: 46, 69]
+
+---
+
+## 📂 Key Projects
+
+### [Security Analysis] Enterprise Web Security Audit
+- [cite_start]Conducted full-spectrum security diagnostic on production-grade web platforms. [cite: 115, 222, 232]
+- [cite_start]Performed authentication bypass tests and token theft simulations using Burp Suite. [cite: 226, 229]
+- [cite_start]Mitigated risks in AWS S3/CloudFront environments by implementing strict CORS and CSP policies. [cite: 228]
+
+### [Development] Monorepo-based Club Management System (Farm System)
+- [cite_start]Engineered a unified platform for official websites and community management using **Turborepo**. [cite: 75, 142, 143, 284, 285]
+- [cite_start]Optimized CI/CD pipelines via **Turbo filter**, reducing build times by executing selective builds based on changed packages. [cite: 270, 310, 313]
+
+---
+
+## 📊 Technical Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dewbeeny&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
-## ✏️ Studying
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</div>
+## ✨ Career & Education
+- **Security Operations Engineer** @ SECUI (Samsung DS Dispatched)
+- **B.S. in Computer Science & Buddhist Studies** @ Dongguk University
+- [cite_start]**Security Academy 6th** @ SECUI Track [cite: 2, 55]
 
-## ✨ Now
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewbeeny" alt="Top Langs"/>
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dewbeeny" alt="Anurag's GitHub stats"/>
-  </a>
-</div>
-
-<br/>
-
-
-<div align="center">
-  
-  ### Vlog🌿
-  
-  <a href="https://velog.io/@dewbeeny/posts">
-    <img src="https://velog-readme-stats.vercel.app/api?name=dewbeeny" alt="Velog's GitHub stats"/>
-  </a>
-</div>
+## 📫 Contact
+- 🌐 **Blog:** [velog.io/@dewbeeny](https://velog.io/@dewbeeny/posts)
+- 🏢 **Professional Identity:** Soobin K.
